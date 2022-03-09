@@ -12,7 +12,7 @@
         Resumen
     </div>
     <div class="collapse-content bg-primary text-primary-content peer-checked:bg-black peer-checked:text-white "> 
-        <p class="p-8">La presente es una propuesta con un alcance técnico tentativo descrito líneas debajo acorde al requerimiento enviado por GrowBy, marca de HUB NEGOCIOS CREATIVOS S.A.C. y detallado en el <a href="/src/assets/REQ-2022-00014.pdf" class="link">presente</a> documento.</p>
+        <p class="p-8">La presente es una propuesta con un alcance técnico tentativo descrito líneas debajo acorde al requerimiento enviado por GrowBy, marca de HUB NEGOCIOS CREATIVOS S.A.C. y detallado en el <a href="https://drive.google.com/file/d/1LKDEAod76TwsbwkAS-QWUJXs2Dts-Ldy/view?usp=sharing" class="link">presente</a> documento.</p>
     </div>
     </div>
     <div tabindex="0" class="collapse hover:border-2 hover:border-success">
