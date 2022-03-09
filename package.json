@@ -1,0 +1,23 @@
+{
+  "name": "vue",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.5.95",
+    "daisyui": "^2.6.3",
+    "sass": "^1.49.9",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0"
+  }
+}
